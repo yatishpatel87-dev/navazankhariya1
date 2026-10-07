@@ -1,0 +1,6 @@
+{
+  "name": "Nava Zankhariya Primary School - Photo Attendance",
+  "description": "Digital photo attendance register for Nava Zankhariya Primary School featuring 1-tap student photo attendance and PIN-protected teacher administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
